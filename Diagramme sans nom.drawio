@@ -73,14 +73,34 @@
         <mxCell id="EOWl2WxTxrsTDOCXnR41-19" value="Présentations puis TEST DE COMPETENCES (PRESENCE, COURTOISIE, ENIGMES) pour détemriner l&#39;échéance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2178" y="499.16" width="192" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-21" target="EOWl2WxTxrsTDOCXnR41-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EOWl2WxTxrsTDOCXnR41-21" value="&lt;font&gt;la ferme a été assaillie la nuit précédente. Les&amp;nbsp;intrus ont tenté d’entrer par le poulailler. Farweld a donné l’alerte.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2470" y="383.75" width="160" height="85" as="geometry" />
         </mxCell>
         <mxCell id="EOWl2WxTxrsTDOCXnR41-24" value="&amp;nbsp;Ils étaient armés et ont frappé certains membres de sa famille. Farrell&amp;nbsp;et ses fils ont riposté. À sa connaissance, personne n’a été tué, mais il pense que certains bandits ont été blessés." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="520" width="230" height="105" as="geometry" />
+          <mxGeometry x="2460" y="500" width="230" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-25" target="EOWl2WxTxrsTDOCXnR41-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EOWl2WxTxrsTDOCXnR41-25" value="Personne ne sait où sont partis les hors-la-loi, mais certains&lt;br&gt;d’entre eux, touchés aux jambes par des flèches, boitaient ;&lt;br&gt;ils n’ont pas pu aller loin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2470" y="640" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-29" target="EOWl2WxTxrsTDOCXnR41-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3144" y="736.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-29" value="TEST D&#39;INTUITION ou ENIGMES :&amp;nbsp;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;Farrell &lt;i&gt;cache&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;&lt;i&gt;quelque chose&lt;/i&gt;. Il soupçonne qu’ils se terrent dans la tour en ruines, mais&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;préfère garder des défenseurs potentiels près de sa ferme.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2752" y="640" width="248" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-33" value="&lt;span style=&quot;font-family:Symbol;&lt;br/&gt;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:&lt;br/&gt;FR;mso-bidi-font-weight:bold&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;&lt;span style=&quot;font:7.0pt &amp;quot;Times New Roman&amp;quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;Farrell le Jeune&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;mso-fareast-language:&lt;br/&gt;FR&quot;&gt;«&lt;br&gt; J’ai vu un grand vieillard, barbe grise, chapeau pointu. Il donnait des&lt;br&gt; ordres. J’ai jamais vu Gandalf, mais c’pas lui. Il s’planquait derrière&lt;br&gt; les&amp;nbsp;autres. »&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="670" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-34" value="Un Héros qui réussit un test d’INTUITION réalise que Farweld reste étrangement silencieux, alors que c’est lui qui a donné l’alerte. « Je… Je me suis levé parce que j’ai entendu… quelque chose. Pas un homme. Pas un animal. Un géant. Un géant fait de neige et de ténèbres. Haut comme une tour. Il est passé sur la colline. Je jure l’avoir vu… »&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="396.25" width="330" height="113.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
