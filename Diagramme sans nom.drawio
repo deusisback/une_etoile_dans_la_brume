@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5">
   <diagram name="Page-1" id="KBhL3fi7d1w7nZGFjVWR">
-    <mxGraphModel>
+    <mxGraphModel dx="1921" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-1" target="EOWl2WxTxrsTDOCXnR41-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-1" target="EOWl2WxTxrsTDOCXnR41-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-1" value="Chez Farell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-2" target="EOWl2WxTxrsTDOCXnR41-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-2" value="Si les héros&amp;nbsp;&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;s’approchent de la Maison de Farrell après la&lt;br/&gt;tombée de la nuit, ou les armes à la main&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="300" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-4" target="EOWl2WxTxrsTDOCXnR41-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-4" value="&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;S’ils s’en approchent en plein jour et n’ont pas&lt;br/&gt;l’air menaçants&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="490" width="235" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-6" target="EOWl2WxTxrsTDOCXnR41-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-6" value="&lt;p align=&quot;center&quot; class=&quot;normalanneauunique&quot;&gt;Farrell les hèle alors&lt;br&gt;qu’ils grimpent le sentier menant à la ferme. « Qu’est-ce que vous voulez ? »,&lt;br&gt;demande-t-il. Si les Héros le persuadent qu’ils ne sont pas hostiles, il tousse&lt;br&gt;bruyamment, crache au sol puis les invite à entrer dans l’enceinte (mais pas&lt;br&gt;dans la maison) pour parler à l’abri du vent.&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="440" width="255" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-8" target="EOWl2WxTxrsTDOCXnR41-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-8" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;le fermier et sa famille leur tirent des flèches&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;et lancent des pierres en leur criant de s’en aller. Leurs chiens aboient&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;férocement derrière le mur d’enceinte : il est clair que la ferme s’attendait à&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;une attaque.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="253.75" width="220" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-10" target="EOWl2WxTxrsTDOCXnR41-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-10" value="TEST DE COURTOISIE" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="282.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-12" target="EOWl2WxTxrsTDOCXnR41-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-12" value="&lt;p class=&quot;normalanneauunique&quot;&gt;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;Farrell les mène dans l&#39;enceinte vers un enclos de&lt;br&gt;pierre derrière la maison, abrité du vent. Deux plus jeunes hommes sont présents assis sur de vieux bancs autour d&#39;un brasero trônant au centre de l&#39;enclos&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="468.75" width="180" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-15" target="EOWl2WxTxrsTDOCXnR41-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-15" value="CONSEIL AVEC FARRELL" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="500" width="120" height="59.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-17" value="A priori les PJS veulent des informations sur les brigands et leur localisation. Ils peuvent également solliciter le dîner et le couvert" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="499.69" width="170" height="110.31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
