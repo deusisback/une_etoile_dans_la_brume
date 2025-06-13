@@ -61,17 +61,26 @@
         <mxCell id="EOWl2WxTxrsTDOCXnR41-17" value="A priori les PJS veulent des informations sur les brigands et leur localisation. Ils peuvent également solliciter le vivre et le couvert. Même si Farrell est un misanthrope taciturne la requête reste donc raisonnable (seuil 3) par contre Farrell est réticent (-1D)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1888" y="474" width="180" height="136" as="geometry" />
         </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-19" target="EOWl2WxTxrsTDOCXnR41-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-19" target="EOWl2WxTxrsTDOCXnR41-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOWl2WxTxrsTDOCXnR41-19" target="EOWl2WxTxrsTDOCXnR41-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EOWl2WxTxrsTDOCXnR41-19" value="Présentations puis TEST DE COMPETENCES (PRESENCE, COURTOISIE, ENIGMES) pour détemriner l&#39;échéance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2178" y="499.16" width="192" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EOWl2WxTxrsTDOCXnR41-21" value="&lt;span style=&quot;font-size:8.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:&amp;quot;Candara&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:FR;mso-fareast-language:&lt;br/&gt;FR;mso-bidi-language:AR-SA&quot;&gt;la ferme a été assaillie la nuit précédente. Les&lt;br/&gt;intrus ont tenté d’entrer par le poulailler. Farweld a donné l’alerte.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="383.75" width="120" height="85" as="geometry" />
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-21" value="&lt;font&gt;la ferme a été assaillie la nuit précédente. Les&amp;nbsp;intrus ont tenté d’entrer par le poulailler. Farweld a donné l’alerte.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="383.75" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="EOWl2WxTxrsTDOCXnR41-23" value="&lt;p class=&quot;normalanneauunique&quot;&gt;&lt;span style=&quot;mso-fareast-language:FR&quot;&gt;la famille a riposté. Aucun mort connu, mais certains pillards ont été blessés flèches dans&amp;nbsp;les jambes).&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="499.16" width="140" height="108" as="geometry" />
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-24" value="&amp;nbsp;Ils étaient armés et ont frappé certains membres de sa famille. Farrell&amp;nbsp;et ses fils ont riposté. À sa connaissance, personne n’a été tué, mais il pense que certains bandits ont été blessés." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="520" width="230" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="EOWl2WxTxrsTDOCXnR41-24" value="&amp;nbsp;Ils étaient armés et ont frappé certains membres de sa famille. Farrell&lt;br&gt;et ses fils ont riposté. À sa connaissance, personne n’a été tué,&lt;br&gt;mais il pense que certains bandits ont été blessés." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="660" width="380" height="60" as="geometry" />
+        <mxCell id="EOWl2WxTxrsTDOCXnR41-25" value="Personne ne sait où sont partis les hors-la-loi, mais certains&lt;br&gt;d’entre eux, touchés aux jambes par des flèches, boitaient ;&lt;br&gt;ils n’ont pas pu aller loin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="640" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
